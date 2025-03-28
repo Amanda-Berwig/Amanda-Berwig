@@ -1,22 +1,17 @@
-# Amanda Berwig
+💻 Transição para Tecnologia | Desenvolvedora Frontend em formação
 
-## Sobre Mim
 
-Olá! 👋 
+Sou formada em Biomedicina, mas minha paixão pela tecnologia me levou a buscar novos desafios na área de desenvolvimento. Atualmente, estou focada em React, aprimorando minhas habilidades para atuar como desenvolvedora Frontend.
 
-Meu nome é Amanda Berwig, tenho 23 anos e sou formada em Biomedicina. Atualmente, estou em transição de carreira para a área de tecnologia. 
-## Tecnologias
 
-Estou aprendendo as seguintes tecnologias:
+🚀 Tecnologias
 
-<p align="left">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="50" height="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="50" height="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50" height="50">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="50" height="50">
-</p>
 
-💚 Atualmente estou estudando python, através do programa Geração Caldeira do Instituto Caldeira
+Atualmente, estou aprendendo e trabalhando com as seguintes tecnologias:
+
+<p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS3" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50" height="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50" height="50"> </p>
+💚 Atualmente, estou me dedicando integralmente aos estudos de React.
+
 
 ## Contato
 
