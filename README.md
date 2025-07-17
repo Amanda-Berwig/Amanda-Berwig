@@ -1,4 +1,4 @@
-<strong>💻 Transição para Tecnologia | Desenvolvedora Frontend em formação</strong>
+<strong>💻 Transição para Tecnologia | Desenvolvedora em formação</strong>
 
 
 
@@ -18,9 +18,10 @@ Estou aprendendo e trabalhando com as seguintes tecnologias:
 
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/amanda_berwig">
+  <a href="https://www.linkedin.com/in/amanda-berwig/">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30">
   </a>
+
   
   <a href="mailto:amandaberwig@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" width="30" height="30">
