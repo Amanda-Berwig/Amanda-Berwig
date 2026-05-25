@@ -16,7 +16,7 @@
 
 ### ✨ Sobre mim
 
-Sou formada em Biomedicina, mas minha paixão pela tecnologia me levou a buscar novos desafios na área de desenvolviment Hoje curso Análise e Desenvolvimento de Sistemas e atuo como Dev Frontend Jr., trabalhando com React, automações com Puppeteer e web scraping no dia a dia.
+Sou formada em Biomedicina, mas minha paixão pela tecnologia me levou a buscar novos desafios na área de desenvolvimento. Hoje curso Análise e Desenvolvimento de Sistemas e atuo como Dev Frontend Jr., trabalhando com React, automações com Puppeteer e web scraping no dia a dia.
 
 ---
 
